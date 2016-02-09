@@ -1,0 +1,17 @@
+header{
+  line-height: auto;
+  height: 60px;
+  padding: 10px;
+}
+.primary-background{
+    background-color: black;
+}
+.logo{
+  float:left;
+}
+.btn-warning{
+  float:right;
+}
+.orange-text{
+  color:#ff9900;
+}
